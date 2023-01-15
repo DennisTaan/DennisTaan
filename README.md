@@ -9,7 +9,7 @@
     <li style="text-align:left; margin-bottom: 10px;">🎓 I hold a Bachelor of Science with a Major in Information Architecture, specializing in Web Content Manager and Front-end web development.</li>
     <li style="text-align:left; margin-bottom: 10px;">💻 I have a solid foundation in HTML, CSS, and JavaScript, as well as some knowledge of PHP and React.</li>
     <li style="text-align:left; margin-bottom: 10px;">🔪 I am constantly looking to sharpen my skill set and eager to learn new technologies.</li>
-    <li style="text-align:left; margin-bottom: 10px;">📖I am currently working on my skills with online courses such as Udemy, Frontendmentor.io ,and Codecademy.</li>
+    <li style="text-align:left; margin-bottom: 10px;">🛠️ I am consistently enhancing my skills through online courses such as Udemy, Frontendmentor.io, and Codecademy.</li>
     <li style="text-align:left; margin-bottom: 10px;">🚀 I am excited to take on new challenges and tackle difficult problems to deliver visually appealing and user-friendly websites.</li>
     <li style="text-align:left; margin-bottom: 10px;">🤝 Thank you for visiting my profile, and I look forward to connecting with the developer community!</li>
 </ul>
